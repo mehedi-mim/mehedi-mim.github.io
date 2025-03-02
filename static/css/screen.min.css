@@ -1130,8 +1130,8 @@ a:hover {
 
 .projects-wrap:after {
     bottom: 0;
-    -webkit-box-shadow: 0 0 2px 1px #2c3e50;
-    box-shadow: 0 0 2px 1px #2c3e50
+    /* -webkit-box-shadow: 0 0 2px 1px #2c3e50;
+    box-shadow: 0 0 2px 1px #2c3e50 */
 }
 
 .projects {
